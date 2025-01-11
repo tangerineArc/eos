@@ -10,6 +10,6 @@ export default [
   },
   pluginJs.configs.recommended,
   {
-    ignores: ["*.html", "*.css", "webpack.*.js"],
+    ignores: ["*.html", "*.css", "webpack.*.js", "jest-tests/*"],
   },
 ];
